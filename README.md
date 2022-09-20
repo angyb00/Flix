@@ -17,7 +17,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 
-![flix](https://user-images.githubusercontent.com/89486108/191187318-1113bb1b-a64d-463f-9830-7307ad7ddff7.gif)
+![flix](https://user-images.githubusercontent.com/89486108/191192499-aa16b0a9-727d-4a42-8522-c907b6bb5b76.gif)
+
 
 
 ### Notes
